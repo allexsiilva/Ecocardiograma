@@ -1,0 +1,6 @@
+{
+  "name": "Sistema Ecocardiograma",
+  "description": "Sistema para preenchimento e impressão de laudos de ecocardiograma",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

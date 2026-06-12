@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@media print {
+  @page {
+    margin: 10mm;
+    size: A4 portrait;
+  }
+  html, body {
+    width: 210mm;
+    height: max-content;
+  }
+}
